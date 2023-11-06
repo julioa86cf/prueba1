@@ -2,3 +2,6 @@ para crear un fichero el codigo es toush y el nombre
 para crear una carpeta es mkdir 
 para crear un repositorio es git init dentro de la carpeta 
 revision
+para sincronisasr lo que esta en la nube con lo que esta local es git fresh
+para descargar de las nuves git pull
+
